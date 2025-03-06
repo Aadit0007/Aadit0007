@@ -18,8 +18,8 @@
 
 ### 📫 How to Reach Me  
 - **GitHub**: [Aadit0007](https://github.com/Aadit0007)  
-- **LinkedIn**: *[Your LinkedIn Profile (if available)]*  
-- **Email**: *[Your Email (optional)]*  
+- **LinkedIn**: *https://www.linkedin.com/in/aadit-arora-28640b2b7/*  
+- **Email**: *Aaditarora1504@gmail.com*  
 
 ### 😄 Pronouns  
 - He/Him  
